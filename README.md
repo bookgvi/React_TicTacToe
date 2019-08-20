@@ -1,2 +1,2 @@
 # React_TicTacToe
-TicTacToe Game on react
+TicTacToe Game on React
